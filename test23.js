@@ -1,4 +1,4 @@
 function anotherTest(data) {
-  console.log(data)
-  return "super clear"
+  console.log(data);
+  return "super clear";
 }

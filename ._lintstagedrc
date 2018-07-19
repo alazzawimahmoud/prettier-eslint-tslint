@@ -1,0 +1,4 @@
+{
+    "**/*.ts": ["node node_modules/tslint/bin/tslint --format stylish --fix"],
+    "**/*.scss" : ["node ./node_modules/prettier/bin-prettier.js **/*.scss --write"]
+}
